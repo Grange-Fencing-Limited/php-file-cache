@@ -1,0 +1,20 @@
+{
+  "name": "grange-fencing/php-file-cache",
+  "description": "A lightweight, dependency free, PHP file cache library",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "GrangeFencing\\PhpFileCache\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Craig Hancock",
+      "email": "c.hancock@grangefencing.co.uk"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.3"
+  }
+}
