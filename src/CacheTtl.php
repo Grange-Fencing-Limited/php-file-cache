@@ -6,5 +6,6 @@
 
         case Default      = 3600;
         case UntilCleared = 0;
+        case EndOfDay     = 1;
 
     }
